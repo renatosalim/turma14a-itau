@@ -5,7 +5,7 @@
 <h5>Tentar sempre, desistir jamais!!!<h5>
 
 <div style="display:flex">
-<div style="witdh:300px;height:300px;background:lightblue;color:black;padding:50px;margin:50herpx;">
+<div style="witdh:300px;height:300px;background:lightblue;color:black;padding:50px;margin:50px;">
     Cloud
    <br>  
    <img src= "cloud.jfif" style = witdh:50px">
@@ -16,7 +16,7 @@
 	<a href="https://api.whatsapp.com/send?phone=55999999999999&text=ol%C3%A1%20vendedor%20quero%20comprar%20de%20vc" target="_blank" >Entrar em contato com o vendedor</a>
   </div>
 </div>
-<div style="witdh:300px;height:300px;background:lightgreen;color:black;padding:50px;margin:50px;">
+<div style="witdh:300px;height:300px;background:lightblue;color:black;padding:50px;margin:50px;">
     Machine Learning
    <br> 
    <img src= "ML.jfif" style = witdh:50px">
