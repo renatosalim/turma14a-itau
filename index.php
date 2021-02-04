@@ -5,7 +5,7 @@
 <h5>Tentar sempre, desistir jamais!!!<h5>
 
 <div style="display:flex">
-<div style="witdh:400px;height:400px;background:lightblue;color:black;padding:50px;margin:50px;">
+<div style="witdh:400px;height:400px;background:lightblue;color:black;padding:500px;margin:50px;">
     Cloud
    <br>  
    <img src= "cloud.jfif" style = witdh:50px">
