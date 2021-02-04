@@ -5,7 +5,7 @@
 <h5>Tentar sempre, desistir jamais!!!<h5>
 
 <div style="display:flex">
-<div style="witdh:400px;height:800px;background:lightblue;color:black;padding:50px;margin:50px;">
+<div style="witdh:400px;height:800px;background:lightblue;color:black;padding:50px;margin:50herpx;">
     Cloud
    <br>  
    <img src= "cloud.jfif" style = witdh:50px">
@@ -17,9 +17,9 @@
   </div>
 </div>
 <div style="witdh:400px;height:400px;background:lightgreen;color:black;padding:50px;margin:50px;">
-    Internet das coisas
+    Machine Learning
    <br> 
-   <img src= "IOT.jfif" style = witdh:50px">
+   <img src= "ML.jfif" style = witdh:50px">
    <br><br>
     R$ 25.000,00
     <br><br>
